@@ -1,0 +1,264 @@
+<SAMI>
+	<HEAD>
+		<TITLE>Test subtitle</TITLE>
+
+		<SAMIParam>
+			Metrics {
+						time:ms;
+					}
+			Spec {
+					MSFT:1.0;
+				}
+		</SAMIParam>
+
+		<STYLE TYPE="text/css">
+			<!--
+				P {
+					font-family: Arial;
+					font-weight: normal;
+					color: black;
+					text-align: left;
+				}
+
+				.ENCC {
+					name: English;
+					lang: en-US;
+					SAMIType: CC;
+				}
+
+				.KRCC {
+					name: 한국어;
+					lang: ko-KR;
+					SAMIType: CC;
+				}
+			-->
+		</STYLE>
+	</HEAD>
+
+	<BODY>
+		<SYNC Start=2500>
+			<P Class=ENCC>[2.5s] Start</P>
+		</SYNC>
+
+		<SYNC Start=5000>
+			<P Class=ENCC>[5s]</P>
+		</SYNC>
+
+		<SYNC Start=7500>
+			<P Class=ENCC>[7.5s] Twinkle, Twinkle, Little star</P>
+		</SYNC>
+
+		<SYNC Start=10000>
+			<P Class=ENCC>[10s]</P>
+		</SYNC>
+
+		<SYNC Start=12500>
+			<P Class=ENCC>[12.5s] Twinkle, twinkle, little star,</P>
+		</SYNC>
+
+		<SYNC Start=15000>
+			<P Class=ENCC>[15s] How I wonder what you are.</P>
+		</SYNC>
+
+		<SYNC Start=17500>
+			<P Class=ENCC>[17.5s] Up above the world so high,</P>
+		</SYNC>
+
+		<SYNC Start=20000>
+			<P Class=ENCC>[20s] Like a diamond in the sky.</P>
+		</SYNC>
+
+		<SYNC Start=22500>
+			<P Class=ENCC>[22.5s]</P>
+		</SYNC>
+
+		<SYNC Start=25000>
+			<P Class=ENCC>[25s] Twinkle, twinkle, little star,</P>
+		</SYNC>
+
+		<SYNC Start=27500>
+			<P Class=ENCC>[27.5s] How I wonder what you are.</P>
+		</SYNC>
+
+		<SYNC Start=30000>
+			<P Class=ENCC>[30s] When the blazing sun is gone,</P>
+		</SYNC>
+
+		<SYNC Start=32500>
+			<P Class=ENCC>[32.5s] When he nothing shines upon,</P>
+		</SYNC>
+
+		<SYNC Start=35000>
+			<P Class=ENCC>[35s] Then you show your little light.</P>
+		</SYNC>
+
+		<SYNC Start=37500>
+			<P Class=ENCC>[37.5s] Twinkle, twinkle, all the night.</P>
+		</SYNC>
+
+		<SYNC Start=40000>
+			<P Class=ENCC>[40s]</P>
+		</SYNC>
+
+		<SYNC Start=42500>
+			<P Class=ENCC>[42.5s] Twinkle, twinkle, little star,</P>
+		</SYNC>
+
+		<SYNC Start=45000>
+			<P Class=ENCC>[45s] How I wonder what you are.</P>
+		</SYNC>
+
+		<SYNC Start=47500>
+			<P Class=ENCC>[47.5s]</P>
+		</SYNC>
+
+		<SYNC Start=50000>
+			<P Class=ENCC>[50s] Twinkle, twinkle, little star,</P>
+		</SYNC>
+
+		<SYNC Start=52500>
+			<P Class=ENCC>[52.5s] How I wonder what you are.</P>
+		</SYNC>
+
+		<SYNC Start=55000>
+			<P Class=ENCC>[55s] Up above the world so high,</P>
+		</SYNC>
+
+		<SYNC Start=57500>
+			<P Class=ENCC>[57.5s] Like a diamond in the sky.</P>
+		</SYNC>
+
+		<SYNC Start=60000>
+			<P Class=ENCC>[60s]</P>
+		</SYNC>
+
+		<SYNC Start=62500>
+			<P Class=ENCC>[62.5s] Twinkle, twinkle, little star,</P>
+		</SYNC>
+
+		<SYNC Start=65000>
+			<P Class=ENCC>[65s] How I wonder what you are.</P>
+		</SYNC>
+
+		<SYNC Start=67500>
+			<P Class=ENCC>[67.5s]</P>
+		</SYNC>
+
+		<SYNC Start=70000>
+			<P Class=ENCC>[70s] End</P>
+		</SYNC>
+
+
+		<SYNC Start=2500>
+			<P Class=KRCC>[2.5s] 시작</P>
+		</SYNC>
+
+		<SYNC Start=5000>
+			<P Class=KRCC>[5s]</P>
+		</SYNC>
+
+		<SYNC Start=7500>
+			<P Class=KRCC>[7.5s] 반짝, 반짝, 작은 별</P>
+		</SYNC>
+
+		<SYNC Start=10000>
+			<P Class=KRCC>[10s]</P>
+		</SYNC>
+
+		<SYNC Start=12500>
+			<P Class=KRCC>[12.5s] 반짝, 반짝, 작은 별,</P>
+		</SYNC>
+
+		<SYNC Start=15000>
+			<P Class=KRCC>[15s] 너는 정말로 놀라운 존재로구나.</P>
+		</SYNC>
+
+		<SYNC Start=17500>
+			<P Class=KRCC>[17.5s] 저 높은 하늘 너머 세상 위에서,</P>
+		</SYNC>
+
+		<SYNC Start=20000>
+			<P Class=KRCC>[20s] 너는 다이아몬드처럼 빛나는 구나.</P>
+		</SYNC>
+
+		<SYNC Start=22500>
+			<P Class=KRCC>[22.5s]</P>
+		</SYNC>
+
+		<SYNC Start=25000>
+			<P Class=KRCC>[25s] 반짝, 반짝, 작은 별,</P>
+		</SYNC>
+
+		<SYNC Start=27500>
+			<P Class=KRCC>[27.5s] 너는 정말로 놀라운 존재로구나.</P>
+		</SYNC>
+
+		<SYNC Start=30000>
+			<P Class=KRCC>[30s] 뜨거운 햇님이 잠들었을 때,</P>
+		</SYNC>
+
+		<SYNC Start=32500>
+			<P Class=KRCC>[32.5s] 아무것도 빛을 비추지 않을 때,</P>
+		</SYNC>
+
+		<SYNC Start=35000>
+			<P Class=KRCC>[35s] 너는 작은 빛을 보여주지.</P>
+		</SYNC>
+
+		<SYNC Start=37500>
+			<P Class=KRCC>[37.5s] 밤새도록 반짝, 반짝.</P>
+		</SYNC>
+
+		<SYNC Start=40000>
+			<P Class=KRCC>[40s]</P>
+		</SYNC>
+
+		<SYNC Start=42500>
+			<P Class=KRCC>[42.5s] 반짝, 반짝, 작은 별,</P>
+		</SYNC>
+
+		<SYNC Start=45000>
+			<P Class=KRCC>[45s] 너는 정말로 놀라운 존재로구나.</P>
+		</SYNC>
+
+		<SYNC Start=47500>
+			<P Class=KRCC>[47.5s]</P>
+		</SYNC>
+
+		<SYNC Start=50000>
+			<P Class=KRCC>[50s] 반짝, 반짝, 작은 별,</P>
+		</SYNC>
+
+		<SYNC Start=52500>
+			<P Class=KRCC>[52.5s] 너는 정말로 놀라운 존재로구나.</P>
+		</SYNC>
+
+		<SYNC Start=55000>
+			<P Class=KRCC>[55s] 저 높은 하늘 너머 세상 위에서,</P>
+		</SYNC>
+
+		<SYNC Start=57500>
+			<P Class=KRCC>[57.5s] 너는 다이아몬드처럼 빛나는 구나.</P>
+		</SYNC>
+
+		<SYNC Start=60000>
+			<P Class=KRCC>[60s]</P>
+		</SYNC>
+
+		<SYNC Start=62500>
+			<P Class=KRCC>[62.5s] 반짝, 반짝, 작은 별,</P>
+		</SYNC>
+
+		<SYNC Start=65000>
+			<P Class=KRCC>[65s] 너는 정말로 놀라운 존재로구나.</P>
+		</SYNC>
+
+		<SYNC Start=67500>
+			<P Class=KRCC>[67.5s]</P>
+		</SYNC>
+
+		<SYNC Start=70000>
+			<P Class=KRCC>[70s] 끝</P>
+		</SYNC>
+	</BODY>
+</SAMI>
